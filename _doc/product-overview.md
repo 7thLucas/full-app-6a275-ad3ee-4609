@@ -1,17 +1,16 @@
 # Product Overview
 
 ## What it is
-A **shared office contact directory app**. It gives a small office a tidy, central place
-to keep every colleague's contact details so anyone on the team can find the right person
-fast. Staff can **add**, **search**, and **organize contacts by department**, replacing
+A **single-user contact directory app**. It gives one person — the admin — a tidy,
+private place to keep every colleague's contact details and find the right person fast.
+The admin can **add**, **search**, and **organize contacts by department**, replacing
 scattered spreadsheets, sticky notes, and out-of-date address books.
 
 ## Who it's for
-- **Everyone in the small office.** Any staff member who needs to look up a coworker and
-  find them in seconds is a user. The goal is fast self-service lookup for the whole team,
-  not just one admin.
-- The directory is maintained for the office as people join, move departments, or change
-  roles, and the whole team relies on it to reach the right colleague quickly.
+- **A single admin (one person).** The app has exactly one user, who owns and maintains
+  the directory. There is no shared access, no team logins, no multi-user self-service.
+- That one admin keeps the directory accurate as people join, move departments, or change
+  roles — and is the only person who looks contacts up in it.
 
 ## What a contact holds
 Each contact record captures:
@@ -28,7 +27,7 @@ Each contact record captures:
 - **Organize by department** — group and browse people by the team they belong to, so
   the directory mirrors how the office is actually structured.
 - **Photos for faces** — uploaded photos make people recognizable at a glance, which
-  helps newcomers put names to faces.
+  helps the admin put names to faces.
 
 ## Positioning & principles
 - **Single-user simple.** Built for one admin, not an enterprise HR system. The bar is
