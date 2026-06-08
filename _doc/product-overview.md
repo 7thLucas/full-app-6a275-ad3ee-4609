@@ -1,0 +1,1 @@
+Build a contact directory app for a small office that lets you add, search, and organize contacts by department. Each contact has a name, email address, phone number, department, role, and can upload a photo.
