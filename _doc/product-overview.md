@@ -1,17 +1,16 @@
 # Product Overview
 
 ## What it is
-A **contact directory app for a small office**. It gives a team one shared, tidy place
-to keep every colleague's contact details and find the right person fast. Staff can
-**add**, **search**, and **organize contacts by department**, replacing scattered
-spreadsheets, sticky notes, and out-of-date address books.
+A **single-user contact directory app**. It gives one person — the admin — a tidy,
+private place to keep every colleague's contact details and find the right person fast.
+The admin can **add**, **search**, and **organize contacts by department**, replacing
+scattered spreadsheets, sticky notes, and out-of-date address books.
 
 ## Who it's for
-- **Small offices and teams** (one company, a handful of departments) who need a single
-  reliable source for "who's who and how do I reach them."
-- **Everyday staff** looking up a colleague's email, phone, or role.
-- **Office admins / coordinators** responsible for keeping the directory accurate as
-  people join, move departments, or change roles.
+- **A single admin (one person).** The app has exactly one user, who owns and maintains
+  the directory. There is no shared access, no team logins, no multi-user collaboration.
+- That one admin is the person responsible for keeping the directory accurate as people
+  join, move departments, or change roles — and the only person who looks people up in it.
 
 ## What a contact holds
 Each contact record captures:
