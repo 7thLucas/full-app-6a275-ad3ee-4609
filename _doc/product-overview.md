@@ -30,12 +30,13 @@ Each contact record captures:
   helps newcomers put names to faces.
 
 ## Positioning & principles
-- **Small-office simple.** Built for a single office, not an enterprise HR system. The
-  bar is "obvious to use on day one," not "configurable for everything."
+- **Single-user simple.** Built for one admin, not an enterprise HR system. The bar is
+  "obvious to use on day one," not "configurable for everything." No sharing, no logins,
+  no collaboration.
 - **Find people fast.** Search and department grouping are the heart of the product;
   everything serves the goal of reaching the right colleague in seconds.
 - **One source of truth.** Replaces ad-hoc spreadsheets and scattered notes with a
-  single, current directory the whole team shares.
+  single, current directory the admin keeps.
 - **Calm, uncluttered tone.** Clean, friendly, professional — approachable for every
   staff member, not just power users.
 
