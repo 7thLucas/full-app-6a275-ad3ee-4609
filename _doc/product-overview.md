@@ -42,6 +42,6 @@ Each contact record captures:
 
 ## Scope (today)
 In scope: adding contacts, searching contacts, organizing/browsing by department, and
-the six contact fields above (including photo upload). Anything beyond this — messaging,
-org-chart hierarchy, permissions/roles for editing, integrations — is out of scope until
-the core truth says otherwise.
+the six contact fields above (including photo upload). Anything beyond this — multi-user
+access or sharing, messaging, org-chart hierarchy, permissions/roles for editing,
+integrations — is out of scope until the core truth says otherwise.
