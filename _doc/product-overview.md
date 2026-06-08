@@ -31,18 +31,20 @@ Each contact record captures:
   helps newcomers put names to faces.
 
 ## Positioning & principles
-- **Single-user simple.** Built for one admin, not an enterprise HR system. The bar is
-  "obvious to use on day one," not "configurable for everything." No sharing, no logins,
-  no collaboration.
+- **Office-simple.** Built for a small office to share, not an enterprise HR system. The
+  bar is "obvious to use on day one," not "configurable for everything."
+- **Self-service for the whole team.** Any staff member can look someone up themselves —
+  the directory serves everyone, not a single gatekeeper admin.
 - **Find people fast.** Search and department grouping are the heart of the product;
   everything serves the goal of reaching the right colleague in seconds.
 - **One source of truth.** Replaces ad-hoc spreadsheets and scattered notes with a
-  single, current directory the admin keeps.
+  single, current directory the whole office shares.
 - **Calm, uncluttered tone.** Clean, friendly, professional — approachable for every
   staff member, not just power users.
 
 ## Scope (today)
 In scope: adding contacts, searching contacts, organizing/browsing by department, and
-the six contact fields above (including photo upload). Anything beyond this — multi-user
-access or sharing, messaging, org-chart hierarchy, permissions/roles for editing,
-integrations — is out of scope until the core truth says otherwise.
+the six contact fields above (including photo upload), available to everyone in the
+office for self-service lookup. Anything beyond this — messaging, org-chart hierarchy,
+fine-grained permissions/roles for editing, integrations — is out of scope until the
+core truth says otherwise.
